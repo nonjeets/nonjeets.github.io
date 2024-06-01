@@ -6,9 +6,10 @@ About our Token
 
 DEX SURPRISE TIME FRAME - PREVENT INSTANT SELL - GIVING THE PROJECT A REAL SHOT
 
-# Why was this built?
-* Protecting and safeguarding legitimate developers
-* Safeguarding traders
+# What are we building?
+* Platform for protecting and safeguarding legitimate developers
+* Safeguarding and educating traders
+* Robust anti rug system
 
 ...... The scale of fraud happening daily on Solana is sickening ..... 
 
