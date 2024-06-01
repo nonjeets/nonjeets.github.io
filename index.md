@@ -1,9 +1,10 @@
 # SAVING SOLANA
 
-Project Name: Saving SOL
-TICKER: SEND
-Contract ID: 
-Link: [https://pump.fun/](https://pump.fun/board)
+About our Token
+* Project Name: Saving SOL
+* TICKER: SEND
+* Contract: 
+* Link: [https://pump.fun/](https://pump.fun/board)
 
 SEEDING IS A SURPRISE TIME FRAME - PREVENTING INSTANT SELLS - GIVING THE PROJECT A REAL SHOT
 
