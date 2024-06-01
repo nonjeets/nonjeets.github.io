@@ -2,7 +2,7 @@ About our Token
 * Project Name: SAVING SOL
 * TICKER: SEND
 * Contract: 8sTcCC9zHCCBEGWviA8AX97Ub8HhCbmTU6TGEdZvsswd
-* Link: [https://pump.fun/]([8sTcCC9zHCCBEGWviA8AX97Ub8HhCbmTU6TGEdZvsswd](https://pump.fun/8sTcCC9zHCCBEGWviA8AX97Ub8HhCbmTU6TGEdZvsswd))
+*Link: [https://pump.fun/]([https://pump.fun/board](https://pump.fun/8sTcCC9zHCCBEGWviA8AX97Ub8HhCbmTU6TGEdZvsswd))
 
 DEX SURPRISE TIME FRAME - PREVENT INSTANT SELL - GIVING THE PROJECT A REAL SHOT
 
