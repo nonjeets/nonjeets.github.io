@@ -1,5 +1,3 @@
-# SAVING SOLANA
-
 About our Token
 * Project Name: SAVING SOL
 * TICKER: SEND
