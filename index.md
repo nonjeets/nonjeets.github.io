@@ -23,7 +23,7 @@ DEX SURPRISE TIME FRAME - PREVENT INSTANT SELL - GIVING THE PROJECT A REAL SHOT
 * We pay the DEX Listing.
 * We transfer the DEV wallet to the Developer 4 hours after DEX launch.
 
-All these safe guards ensure that even if the DEV leaves the project it can continue with a CTO
+All these safeguards ensure that even if the DEV leaves the project it can continue with a CTO
 
 # Now that you are here, we are getting our project coin SAFE going.
 
@@ -37,7 +37,7 @@ All these safe guards ensure that even if the DEV leaves the project it can cont
 * Verifications on all the above
 * Marketing and partners onboarding
 
-As we take this journey please be patient we will get a TG channel and all the bells and whistles.
+As we take this journey please be patient, we will get a TG channel and all the bells and whistles as per our roadmap.
 We want this as natural as possible creating stable seeding and value retention for you.
 
 Safe trading - always book your initial as profit.
