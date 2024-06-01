@@ -1,16 +1,17 @@
 # SAVING SOLANA
 
 About our Token
-* Project Name: Saving SOL
+* Project Name: SAVING SOL
 * TICKER: SEND
 * Contract: 
 * Link: [https://pump.fun/](https://pump.fun/board)
 
-SEEDING IS A SURPRISE TIME FRAME - PREVENTING INSTANT SELLS - GIVING THE PROJECT A REAL SHOT
+DEX SURPRISE TIME FRAME - PREVENT INSTANT SELL - GIVING THE PROJECT A REAL SHOT
 
 # Why was this built?
 * Protecting and safeguarding legitimate developers
 * Safeguarding traders
+
 ...... The scale of fraud happening daily on Solana is sickening ..... 
 
 # How will you protect us?
