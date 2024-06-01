@@ -2,7 +2,7 @@
 GitHub Pages Site
 # Contact ID on pump.fun - coming soon
 
-# Why was this build?
+# Why was this built?
 Simple - Protecting and safeguarding legitimate developers and Projects  
 The scale of fraud happening daily is sickening
 
