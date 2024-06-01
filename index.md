@@ -22,12 +22,17 @@ The scale of fraud happening daily is sickening
 
 All these safe guards ensure that even if the DEV leaves the project it can continue with a CTO
 
-# Now that you are here, we are getting our coin of the ground.
+# Now that you are here, we are getting our project coin SAFE going.
 
-After seeding it is essential that you hold while the bots buy and sell. They move on after 15 Minutes.
-Seeding takes 3 - 180 Minutes 
-
-We will also tweet out good projects that fell victim to massive dumps from nasty traders. If they are alive and building, we will support them.
+# --- ROAD MAP 2024 ---
+* Launch Token
+* Greate Markdown Pages for pull requests
+* Pimping GitHub
+* Create decent Website
+* Setup Telegram Business
+* Setup Twitter Business
+* Verifications on all the above
+* Marketing and partners onboarding
 
 As we take this journey please be patient we will get a TG channel and all the bells and whistles.
 We want this as natural as possible creating stable seeding and value retention for you.
