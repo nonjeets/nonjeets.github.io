@@ -1,6 +1,12 @@
-# Website development in Progress
+# Website development in Progress (Non JEETS on SOL)
 GitHub Pages Site
-# Contract ID on pump.fun - coming soon
+
+# TICKER: SEND
+# Project Name: Non JEETS on SOL
+# Contract ID: 
+# Link: 
+
+Dev will sell 25% SEND at between 70-80% (Payment for DEX and Trend)
 
 # Why was this built?
 Simple - Protecting and safeguarding legitimate developers and Projects  
