@@ -4,7 +4,7 @@ GitHub Pages Site
 # TICKER: SEND
 # Project Name: Non JEETS on SOL
 # Contract ID: 
-# Link: 
+# Link: [https://pump.fun/board](url)
 
 Dev will sell 25% SEND at between 70-80% (Payment for DEX and Trend)
 
