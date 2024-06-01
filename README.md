@@ -8,7 +8,9 @@ The scale of fraud happening daily is sickening
 
 # How will you protect us?
 1.1 Dev joins us with his idea
+
 1.2 We launch and hold the dev wallet
+
 1.3 We pay the Ray seeding
 
 We hand over the wallets and dev coins 1 hour after seeding is done.
