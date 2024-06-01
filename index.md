@@ -2,7 +2,7 @@
 GitHub Pages Site
 
 # TICKER: SEND
-# Project Name: Non JEETS on SOL
+# Project Name: Saving SOL
 # Contract ID: 
 # Link: [https://pump.fun/](https://pump.fun/board)
 
