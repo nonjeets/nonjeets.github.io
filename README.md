@@ -26,3 +26,4 @@ As we take this journey please be patient we will get a TG channel and all the b
 We want this as natural as possible creating stable seeding and value retention for you.
 
 Safe trading always take your initial as profit.
+Let`s see if we can get this done.
