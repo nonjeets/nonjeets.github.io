@@ -9,8 +9,9 @@ About our Token
 SEEDING IS A SURPRISE TIME FRAME - PREVENTING INSTANT SELLS - GIVING THE PROJECT A REAL SHOT
 
 # Why was this built?
-Simple - Protecting and safeguarding legitimate developers and Projects  
-The scale of fraud happening daily is sickening
+* Protecting and safeguarding legitimate developers
+* Safeguarding traders
+...... The scale of fraud happening daily on Solana is sickening ..... 
 
 # How will you protect us?
 * Dev joins us with his idea.
