@@ -1,11 +1,11 @@
-# Website development in Progress (Non JEETS on SOL)
+# SAVING SOLANA
 
-# TICKER: SEND
-# Project Name: Saving SOL
-# Contract ID: 
-# Link: [https://pump.fun/](https://pump.fun/board)
+Project Name: Saving SOL
+TICKER: SEND
+Contract ID: 
+Link: [https://pump.fun/](https://pump.fun/board)
 
-# SEEDING IS A SURPRISE TIME FRAME - PREVENTING INSTANT SELLS - GIVING THE PROJECT A REAL SHOT
+SEEDING IS A SURPRISE TIME FRAME - PREVENTING INSTANT SELLS - GIVING THE PROJECT A REAL SHOT
 
 # Why was this built?
 Simple - Protecting and safeguarding legitimate developers and Projects  
