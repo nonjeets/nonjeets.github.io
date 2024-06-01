@@ -1,6 +1,6 @@
 # Website development in Progress
 GitHub Pages Site
-# Contact ID on pump.fun - coming soon
+# Contract ID on pump.fun - coming soon
 
 # Why was this built?
 Simple - Protecting and safeguarding legitimate developers and Projects  
