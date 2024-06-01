@@ -1,5 +1,4 @@
 # Website development in Progress (Non JEETS on SOL)
-GitHub Pages Site
 
 # TICKER: SEND
 # Project Name: Saving SOL
@@ -18,7 +17,7 @@ The scale of fraud happening daily is sickening
 * We create the Twitter sub link
 * We create a sub domain in GitHub for pointing to proper URL`s on Site and Socials
 * We launch and hold the Dev wallet.
-* We pay the Ray seeding.
+* We pay the DEX Listing.
 * We transfer the DEV wallet to the Developer 4 hours after DEX launch.
 
 All these safe guards ensure that even if the DEV leaves the project it can continue with a CTO
