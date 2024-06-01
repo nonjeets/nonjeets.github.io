@@ -7,13 +7,14 @@ Simple - Protecting and safeguarding legitimate developers and Projects
 The scale of fraud happening daily is sickening
 
 # How will you protect us?
-Dev joins us with his idea
-We launch and hold the dev wallet
-We pay the Ray seeding
+1.1 Dev joins us with his idea
+1.2 We launch and hold the dev wallet
+1.3 We pay the Ray seeding
 
 We hand over the wallets and dev coins 1 hour after seeding is done.
 
 Now that you are here, we are getting our coin of the ground.
+
 After seeding it is essential that you hold while the bots buy and sell. They move on after 15 Minutes.
 Seeding takes 1 - 30 Minutes 
 
